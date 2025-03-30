@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# La verdad oculta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -11,23 +11,23 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : _______
+**Titulo** : La verdad oculta
 
-**Autor(es)** ______________
+**Autor(es)** Lucía Martín Gómez y Julio Gerardo Hun Longchong
 
-**Resumen** : _________
+**Resumen** : Miguel Adolfo Rodríguez Herrera-Montalvo es un banquero que colabora con el gobierno dictatorial de su país. Tras su derrocamiento, se ve obligado a ocultarse como un vendedor de globos en un pueblo costero. En su camino, conoce a la pescadora Cristina Ramírez, quien al principio resulta ser una esperanza de vida para Miguel. Lo que no sabe es que ella es una militante del gobierno, encargada de buscar a aquellos exiliados que han provocado la caída del país. Por ello, Cristina decide traicionarlo bajo la amenaza de su descubrimiento como un prófugo de la "justicia". ¿Qué pasará con la búsqueda de libertad de Miguel?
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Nunca sabemos qué pasará mañana en nuestro país. No podemos cambiar el pasado, pero sí el futuro
 
-**Hashtag**  ___
+**Hashtag**  #LaVerdadOculta
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2024
+**Fecha** : 2025
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Redes sociales, plataformas audiovisuales
 
 
 * :octocat: (github url) 
