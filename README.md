@@ -1,3 +1,4 @@
+![img](Logo.png)
 # La verdad oculta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
@@ -9,25 +10,24 @@ Univesidad de Granada
 
 ----
 
+**Titulo**: La verdad oculta
 
-![img](5seconds.png)
-**Titulo** : La verdad oculta
+**Autor(es)**: Lucía Martín Gómez y Julio Gerardo Hun Longchong
 
-**Autor(es)** Lucía Martín Gómez y Julio Gerardo Hun Longchong
+**Resumen**: Miguel Adolfo Rodríguez Herrera-Montalvo es un banquero que colabora con el gobierno dictatorial de su país. Tras su derrocamiento, se ve obligado a ocultarse como un vendedor de globos en un pueblo costero. En su camino, conoce a la pescadora Cristina Ramírez, quien al principio resulta ser una esperanza de vida para Miguel. Lo que no sabe es que ella es una militante del gobierno, encargada de buscar a aquellos exiliados que han provocado la caída del país. Por ello, Cristina decide traicionarlo bajo la amenaza de su descubrimiento como un prófugo de la "justicia". ¿Qué pasará con la búsqueda de libertad de Miguel?
 
-**Resumen** : Miguel Adolfo Rodríguez Herrera-Montalvo es un banquero que colabora con el gobierno dictatorial de su país. Tras su derrocamiento, se ve obligado a ocultarse como un vendedor de globos en un pueblo costero. En su camino, conoce a la pescadora Cristina Ramírez, quien al principio resulta ser una esperanza de vida para Miguel. Lo que no sabe es que ella es una militante del gobierno, encargada de buscar a aquellos exiliados que han provocado la caída del país. Por ello, Cristina decide traicionarlo bajo la amenaza de su descubrimiento como un prófugo de la "justicia". ¿Qué pasará con la búsqueda de libertad de Miguel?
-
-**logotipo** :  ________
+**logotipo**:  ________
 
 **Slogan** (frase motivadora/inspiradora): Nunca sabemos qué pasará mañana en nuestro país. No podemos cambiar el pasado, pero sí el futuro
 
-**Hashtag**  #LaVerdadOculta
+**Hashtag**: #LaVerdadOculta
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2025
+**Fecha**: 2025
 
-**Medios** (donde se tiene presencia): Redes sociales, plataformas audiovisuales
+**Medios** (donde se tiene presencia): 
+Redes sociales, plataformas audiovisuales
 
 
 * :octocat: (github url) 
@@ -45,7 +45,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-
+En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza política. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
+Posteriormente, plasmamos todo esto en la plataforma "Milanote" para tener una visión conjunta de lo que queríamos hacer. Las ideas definitivas han sido representadas en esta página, Github.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
@@ -58,9 +59,17 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
+Con este proyecto hemos aprendido a desarrollar narrativas interactivas, donde se explota al máximo la Experiencia de Usuario.
+
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situación ficticia que tratamos debe ser entendida correctamente.
+
+**Estilo de narración**  (...indica como se hace uso de los medios) 
+
+* Las redes sociales se utilizan para promocionar el proyecto, invitando a todos aquellos que deseen interactuar en una historia de ficción, pero al mismo tiempo en la propia realidad.
+* Las plataformas audiovisuales son empleadas a través de un web doc. Su interfaz visual tendrá un estilo oscuro, representando la dictadura.
+
 
 (ejemplos/alternativas) 
 * documental interactivo 
