@@ -79,12 +79,11 @@ Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situa
 * ... 
 
 
-![gato](fedecat.png)
-
 **Inspiración/moodboard**
 
-> (captura de imagen) hecha con miro/milanote o https://excalidraw.com/ 
+> (captura de imagen) hecha con miro/milanote o https://excalidraw.com/
 
+![img](Moodboard.png)
 
 ### Etapa 2: Prototipar / productos 
 
