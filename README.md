@@ -27,7 +27,7 @@ Univesidad de Granada
 **Fecha**: 2025
 
 **Medios** (donde se tiene presencia): 
-Redes sociales, plataformas audiovisuales
+Redes sociales, plataformas audiovisuales independientes
 
 
 * :octocat: (github url) 
@@ -45,7 +45,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza política. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
+En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza de la élite. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
 Posteriormente, plasmamos todo esto en la plataforma "Milanote" para tener una visión conjunta de lo que queríamos hacer. Las ideas definitivas han sido representadas en esta página, Github.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
@@ -57,13 +57,15 @@ Posteriormente, plasmamos todo esto en la plataforma "Milanote" para tener una v
 
 **Necesidad/oportunidad** 
 
+Creemos que es importante hablar de estas temáticas en la actualidad para que no caigan en el olvido de la memoria colectiva. A través de una narrativa interactiva, el usuario podrá aprender las características que sumergen a un país en dictadura para aprender y evitar que vuelvan a suceder.
+
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
 Con este proyecto hemos aprendido a desarrollar narrativas interactivas, donde se explota al máximo la Experiencia de Usuario.
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
-Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situación ficticia que tratamos debe ser entendida correctamente.
+Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situación ficticia que tratamos debe ser entendida correctamente. Para ello, nos basamos en cierta forma sobre hechos que han sucedido a lo largo de la historia, pero con un lenguaje intuitivo.
 
 **Estilo de narración**  (...indica como se hace uso de los medios) 
 
@@ -82,7 +84,6 @@ Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situa
 **Inspiración/moodboard**
 
 > (captura de imagen) hecha con miro/milanote o https://excalidraw.com/ 
-
 
 
 ### Etapa 2: Prototipar / productos 
