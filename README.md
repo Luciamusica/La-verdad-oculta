@@ -1,4 +1,4 @@
-![img](Logo.png)
+<![img](Logo.png) width="75">
 # La verdad oculta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
@@ -141,7 +141,7 @@ Referencias y recursos:
 
 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > , 202X
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > , 2025
 
 [Facultad de Comunicación y Documentación](http://fcd.ugr.es)
 
