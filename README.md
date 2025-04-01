@@ -1,4 +1,4 @@
-<![img](Logo.png) width="75">
+![img](Logo.png)
 # La verdad oculta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
