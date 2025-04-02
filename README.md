@@ -45,7 +45,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza de la élite. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
+En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea central de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza de la élite. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
 Posteriormente, plasmamos todo esto en la plataforma "Milanote" para tener una visión conjunta de lo que queríamos hacer. Las ideas definitivas han sido representadas en esta página, Github.
 
 **Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
@@ -87,9 +87,11 @@ Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situa
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual: la portada ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado más herramientas.
 
-* redes sociales (...) 
+* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con los personajes a través de la Inteligencia Artificial. El mismo proceso también ha sido utilizado para los escenarios, resultando ser una herramienta relevante en el proyecto.
+
+* Redes sociales (...) 
 
 * publicidad: banner (... ) 
 
