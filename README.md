@@ -16,9 +16,9 @@ Univesidad de Granada
 
 **Resumen**: Miguel Adolfo Rodríguez Herrera-Montalvo es un banquero que colabora con el gobierno dictatorial de su país. Tras su derrocamiento, se ve obligado a ocultarse como un vendedor de globos en un pueblo costero. En su camino, conoce a la pescadora Cristina Ramírez, quien al principio resulta ser una esperanza de vida para Miguel. Lo que no sabe es que ella es una militante del gobierno, encargada de buscar a aquellos exiliados que han provocado la caída del país. Por ello, Cristina decide traicionarlo bajo la amenaza de su descubrimiento como un prófugo de la "justicia". ¿Qué pasará con la búsqueda de libertad de Miguel?
 
-**logotipo**:  ________
+**logotipo**: ![img](Logotipo.png)
 
-**Slogan** (frase motivadora/inspiradora): Nunca sabemos qué pasará mañana en nuestro país. No podemos cambiar el pasado, pero sí el futuro
+**Slogan**: Nunca sabemos qué pasará el día de mañana. En nuestras manos está el futuro.
 
 **Hashtag**: #LaVerdadOculta
 
@@ -27,7 +27,7 @@ Univesidad de Granada
 **Fecha**: 2025
 
 **Medios** (donde se tiene presencia): 
-Redes sociales, plataformas audiovisuales independientes
+Redes sociales, plataformas audiovisuales independientes (Vimeo, Dailymotion).
 
 
 * :octocat: (github url) 
@@ -48,12 +48,10 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable para la Experiencia de Usuario (UX). La idea de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza de la élite. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
 Posteriormente, plasmamos todo esto en la plataforma "Milanote" para tener una visión conjunta de lo que queríamos hacer. Las ideas definitivas han sido representadas en esta página, Github.
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
+* Videojuego "Shin chan: Mi verano con el profesor" (Nintendo Switch): lo hemos cogido para la representación del pueblo costero en el que habita nuestro protagonista Miguel. Es un reflejo del futuro y, a la vez, recuerdos del pasado.
+* Película "El pianista" (Polanski, 2002): hemos seleccionado esta obra audiovisual para plasmar lo que ocurre cuando un régimen dictatorial se apodera en un país.
 
 **Necesidad/oportunidad** 
 
@@ -109,6 +107,9 @@ Este proyecto va dirigido hacia la audiencia a partir de 18 años, pues la situa
 
 
 ### Conclusiones y trabajo futuro
+
+* Gracias a este trabajo, hemos adquirido la capacidad de elaborar narrativas interactivas para crear Experiencias de Usuario lo más inmersivas posibles. El grado de consecución del proyecto ha ido creciendo progresivamente, pues el principio fue aprender los conocimientos básicos y, posteriormente, las herramientas intuitivas que faciliten la creación de esta narrativa.
+* Uno de los problemas identificados fue la creación del protagonista Miguel con Inteligencia Artificial. Le dimos muchas vueltas a Krea AI para establecer un diálogo con el personaje que incidiera en la trama de forma directa.
 
 
 * Grado de consecución del proyecto 
