@@ -16,7 +16,9 @@ Univesidad de Granada
 
 **Resumen**: Miguel Adolfo Rodríguez Herrera-Montalvo es un banquero que colabora con el gobierno dictatorial de su país. Tras su derrocamiento, se ve obligado a ocultarse como un vendedor de globos en un pueblo costero. En su camino, conoce a la pescadora Cristina Ramírez, quien al principio resulta ser una esperanza de vida para Miguel. Lo que no sabe es que ella es una militante del gobierno, encargada de buscar a aquellos exiliados que han provocado la caída del país. Por ello, Cristina decide traicionarlo bajo la amenaza de su descubrimiento como un prófugo de la "justicia". ¿Qué pasará con la búsqueda de libertad de Miguel?
 
-**Logotipo**: ![img](Logotipo.png)
+**Logotipo**: 
+
+![img](Logotipo.png)
 
 **Slogan**: Nunca sabemos qué pasará el día de mañana. En nuestras manos está el futuro.
 
@@ -31,7 +33,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 * Redes sociales: promoción. @LaVerdadOculta
-* GitHub:
+* GitHub: https://github.com/Luciamusica/Luciamusica.github.io/tree/master
 * ArcWeave:
 * Protopie:
 
@@ -87,7 +89,7 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 
 * Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con los personajes a través de la Inteligencia Artificial. El mismo proceso también ha sido utilizado para los escenarios, resultando ser una herramienta relevante en el proyecto.
 
-* Redes sociales (...) 
+* Redes sociales: promoción del proyecto donde se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
 
 * publicidad: banner (... ) 
 
