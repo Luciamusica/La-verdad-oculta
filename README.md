@@ -72,12 +72,12 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 * 
 
 (ejemplos/alternativas) 
-* documental interactivo / web doc
-* videojuego más complejo
+* Documental interactivo / web doc
+* Videojuego más complejo
 
 **Inspiración/moodboard**
 
-> (captura de imagen) hecha con miro/milanote o https://excalidraw.com/
+> (captura de imagen) hecha con Milanote
 
 ![img](Moodboard.png)
 
@@ -99,11 +99,10 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios: los testers nos indicarán sus gustos acerca de la narrativa y la forma visual de la trama.
-* ... 
-
-
-
+* Test de los usuarios: los "testers" nos indicarán su feedback acerca de la narrativa y su grado de interacción, así como la visualización y comprensión de la historia.
+* Preguntas en plataformas: el proyecto estará vinculado a hilos de la cuenta del proyecto en redes sociales. Aquí se realizarán preguntas abiertas a los usuarios en relación a la trama, con el objetivo de conocer si se aproximan o no a la idea central. En el caso contrario, podremos modificar los elementos narrativos del proyecto. Esto da lugar a la transmedialidad.
+* Simulaciones de diálogo: al final de nuestro proyecto se podría realizar una simulación de diálogo con Inteligencia Artificial para seguir fomentando la interacción en la narrativa.
+* Encuestas online: una vez que los usuarios lleguen al final del proyecto, realizaremos una encuesta para conocer si les ha gustado o no, y qué se podría mejorar en relación a proyectos futuros.
 
 
 ### Conclusiones y trabajo futuro
