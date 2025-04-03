@@ -24,7 +24,7 @@ Univesidad de Granada
 
 **Licencia**: hemos utilizado la licencia "Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)" de Creative Commons. Esta licencia no permite la generación de obras derivadas ni hacer un uso comercial de la obra original, es decir, sólo son posibles los usos y finalidades que no tengan carácter comercial.
 
-![img](Creative Commons.png)
+:Creative Commons.png:
 
 **Fecha**: 2025
 
@@ -97,7 +97,7 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
+* Test con usuarios: los testers nos indicarán sus gustos acerca de la narrativa y la forma visual de la trama.
 * ... 
 
 
