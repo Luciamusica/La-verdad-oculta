@@ -24,7 +24,7 @@ Univesidad de Granada
 
 **Licencia**: hemos utilizado la licencia "Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)" de Creative Commons. Esta licencia no permite la generación de obras derivadas ni hacer un uso comercial de la obra original, es decir, sólo son posibles los usos y finalidades que no tengan carácter comercial.
 
-:Creative Commons.png:
+![Image](https://github.com/user-attachments/assets/d51477be-266a-4e55-bcac-d0adea968411)
 
 **Fecha**: 2025
 
