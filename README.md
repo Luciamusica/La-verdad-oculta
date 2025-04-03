@@ -23,7 +23,7 @@ Univesidad de Granada
 **Hashtag**: #LaVerdadOculta
 
 **Licencia**: hemos utilizado la licencia "Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)" de Creative Commons. Esta licencia no permite la generación de obras derivadas ni hacer un uso comercial de la obra original, es decir, sólo son posibles los usos y finalidades que no tengan carácter comercial.
-[img](Creative Commons.png)
+![img](Creative Commons.png)
 
 **Fecha**: 2025
 
