@@ -1,8 +1,6 @@
 ![img](Logo.png)
 # La verdad oculta
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia) <br>
 [Master de Nuevos medios interactivos y periodismo multimedia](https://masteres.ugr.es/newmedia-periodismo-multimedia/) <br>
 Facultad de Comunicación y Documentación <br>
@@ -10,7 +8,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo**: La verdad oculta
+**Titulo**: *La verdad oculta*
 
 **Autor(es)**: Lucía Martín Gómez y Julio Gerardo Hun Longchong
 
@@ -20,11 +18,11 @@ Univesidad de Granada
 
 ![img](Logotipo.png)
 
-**Slogan**: Nunca sabemos qué pasará el día de mañana. En nuestras manos está el futuro.
+**Slogan**: *Nunca sabemos qué pasará el día de mañana. Debemos defender lo que creemos, pues en nuestras manos está el futuro.*
 
 **Hashtag**: #LaVerdadOculta
 
-**Licencia**: hemos utilizado la licencia "Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)" de Creative Commons. Esta licencia no permite la generación de obras derivadas ni hacer un uso comercial de la obra original, es decir, sólo son posibles los usos y finalidades que no tengan carácter comercial.
+**Licencia**: hemos utilizado la licencia "Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)" de Creative Commons. Esta licencia se caracteriza por no permitir la generación de obras derivadas ni hacer un uso comercial de la obra original. En otras palabras, sólo son posibles los usos y finalidades que no tengan carácter comercial. Se ha elegido esta licencia ya que nuestro proyecto es original y lo queremos llevar a cabo en un futuro, por lo que deseamos mantener los derechos comerciales de nuestra obra.
 
 ![Image](https://github.com/user-attachments/assets/d51477be-266a-4e55-bcac-d0adea968411)
 
@@ -56,7 +54,7 @@ Nos hemos inspirado en las siguientes propuestas:
 
 **Necesidad/oportunidad** 
 
-Creemos que es importante hablar de estas temáticas en la actualidad para que no caigan en el olvido de la memoria colectiva. A través de una narrativa interactiva, el usuario podrá aprender las características que sumergen a un país en dictadura para aprender y evitar que vuelvan a suceder.
+Creemos que es importante hablar de estas temáticas en la actualidad para que no caigan en el olvido de la memoria colectiva. A través de una narrativa interactiva, el usuario podrá aprender las características que sumergen a un país en dictadura para aprender y evitar que vuelvan a suceder. Además, ponemos en práctica esto a modo de juego, pues creemos que se crean pocas narrativas lúdicas en la actualidad. 
 
 **Motivación de la propuesta**
 
@@ -69,15 +67,18 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 **Estilo de narración**  (...indica como se hace uso de los medios) 
 
 * Las redes sociales se utilizan para promocionar el proyecto, invitando a todos aquellos que deseen interactuar en una historia de ficción, pero al mismo tiempo en la propia realidad.
-* 
+* Narrativa interactiva en juego: el usuario puede navegar a través del videojuego por las etiquetas, conociendo la trama. Así, la UX se define en nuestro proyecto como la exploración e interacción con los elementos.
 
-(ejemplos/alternativas) 
+Ejemplo:
+* Videojuego más ambicioso con recursos más complejos
+
+Alternativa 
 * Documental interactivo / web doc
-* Videojuego más complejo
+
 
 **Inspiración/moodboard**
 
-> (captura de imagen) hecha con Milanote
+> (Captura de imagen) hecha con Milanote
 
 ![img](Moodboard.png)
 
