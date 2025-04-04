@@ -86,21 +86,19 @@ Alternativa
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual: la portada ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado más herramientas.
+* Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas.
 
-* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con los personajes a través de la Inteligencia Artificial. El mismo proceso también ha sido utilizado para los escenarios, resultando ser una herramienta relevante en el proyecto.
+* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con los personajes a través de la Inteligencia Artificial. Para los escenarios se ha utilizado "Krea AI" de nuevo, resultando ser una herramienta relevante en el proyecto.
 
 * Redes sociales: promoción del proyecto donde se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
 
-* publicidad: banner (... ) 
-
-* ...
+* Publicidad: banner (... ) 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test de los usuarios: los "testers" nos indicarán su feedback acerca de la narrativa y su grado de interacción, así como la visualización y comprensión de la historia.
+* Test de los usuarios: los "testers" nos indicarán su feedback acerca de la narrativa y el grado de interacción, así como la visualización y comprensión de la historia desde el proceso de desarrollo del proyecto.
 * Preguntas en plataformas: el proyecto estará vinculado a hilos de la cuenta del proyecto en redes sociales. Aquí se realizarán preguntas abiertas a los usuarios en relación a la trama, con el objetivo de conocer si se aproximan o no a la idea central. En el caso contrario, podremos modificar los elementos narrativos del proyecto. Esto da lugar a la transmedialidad.
 * Simulaciones de diálogo: al final de nuestro proyecto se podría realizar una simulación de diálogo con Inteligencia Artificial para seguir fomentando la interacción en la narrativa.
 * Encuestas online: una vez que los usuarios lleguen al final del proyecto, realizaremos una encuesta para conocer si les ha gustado o no, y qué se podría mejorar en relación a proyectos futuros.
@@ -109,13 +107,11 @@ Alternativa
 ### Conclusiones y trabajo futuro
 
 * Gracias a este trabajo, hemos adquirido la capacidad de elaborar narrativas interactivas para crear Experiencias de Usuario lo más inmersivas posibles. El grado de consecución del proyecto ha ido creciendo progresivamente, pues el principio fue aprender los conocimientos básicos y, posteriormente, las herramientas intuitivas que faciliten la creación de esta narrativa.
-* Uno de los problemas identificados fue la creación del protagonista Miguel con Inteligencia Artificial. Le dimos muchas vueltas a Krea AI para establecer un diálogo con el personaje que incidiera en la trama de forma directa.
+* Uno de los problemas identificados fue la relación de las ideas para crear la historia. Tomamos Inteligencias Artificial como ChatGPT y Deepseek para que nos ayudaran a vincular las ideas de los pos-its (mencionados anteriormente). Ambas proporcionaban ideas diferentes, por lo que decidimos seleccionar cuestiones de ambas para generar una narrativa lo más coherente y realista posible que incorporara la interacción en el jugador. Por otro lado, también tuvimos problemas con la creación técnica del protagonista Miguel con Inteligencia Artificial. Le dimos muchas vueltas a Krea AI para establecer un diálogo con el personaje que incidiera en la trama de forma directa, consiguiendo finalmente un personaje sobre el que el usuario puede extraer información sobre la historia.
+* Consideramos que merece la pena continuar ya que la Experiencia de Usuario es un mercado relativamente reciente, por lo que creemos que se debe tener en cuenta a la hora de generar historias donde el usuario sea el punto central sobre la interacción en la narrativa.
+* El interés del proyecto es la colaboración con instituciones educativas para fomentar el aprendizaje de este tipo de contenidos, por lo que pretendemos que se involucren los Ministerios nacionales y las comunidades autónomas de los países tanto de España como de Latinoamérica. En este sentido, sí sería un proyecto viable.
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
 Referencias y recursos: 
@@ -125,10 +121,6 @@ Referencias y recursos:
 * Propuestas de me
 
 (...)
-
-
-
-
 
 
 ----
