@@ -28,7 +28,7 @@ Univesidad de Granada
 
 **Fecha**: 2025
 
-**Medios** (donde se tiene presencia): 
+**Medios**: 
 
 * Redes sociales: promoción. @LaVerdadOculta
 * GitHub: https://github.com/Luciamusica/Luciamusica.github.io/tree/master
@@ -64,9 +64,11 @@ Con este proyecto hemos aprendido a desarrollar narrativas interactivas, donde s
 
 Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación ficticia que tratamos les puede ser útil a nivel educativo. Para ello, nos basamos en cierta forma sobre hechos que han sucedido a lo largo de la historia, pero con un lenguaje no demasiado complejo. Este público objetivo podrá disfrutar de un proyecto donde aprenderán los orígenes de una dictadura y sus características.
 
-**Estilo de narración**  (...indica como se hace uso de los medios) 
+**Estilo de narración**
 
-* Las redes sociales se utilizan para promocionar el proyecto, invitando a todos aquellos que deseen interactuar en una historia de ficción, pero al mismo tiempo en la propia realidad.
+La forma en la que hacemos uso de los medios es la siguiente:
+
+* Las redes sociales se utilizan para promocionar el proyecto, invitando a todos aquellos que deseen interactuar en una historia de ficción, pero al mismo tiempo en la propia realidad. Introducimos pistas e información importante para poder avanzar en la historia.
 * Narrativa interactiva en juego: el usuario puede navegar a través del videojuego por las etiquetas, conociendo la trama. Así, la UX se define en nuestro proyecto como la exploración e interacción con los elementos.
 
 Ejemplo:
@@ -82,24 +84,24 @@ Alternativa
 
 ![img](Moodboard.png)
 
-### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+### Etapa 2: Prototipar / productos
 
-* Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas.
+Hemos desarrollado los siguientes productos:
 
-* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con los personajes a través de la Inteligencia Artificial. Para los escenarios se ha utilizado "Krea AI" de nuevo, resultando ser una herramienta relevante en el proyecto.
+* Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas. Esto es una previsualización del juego que se incluirá en las redes sociales del proyecto.
+* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con el protagonista Miguel a través de la Inteligencia Artificial. Este aspecto es complementario para que el usuario entienda la psicología del protagonista y desee explorar más sobre el proyecto. Para los escenarios se ha utilizado "Krea AI" de nuevo, resultando ser una herramienta relevante en el proyecto.
+* Redes sociales: una vez que tenemos los recursos anteriores, los hemos integrado en las redes sociales como promoción del proyecto. Aquí se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
+* Publicidad: el banner ha sido realizado con "Krea AI" y modificado con Photoshop. También se integra en las redes sociales.
+* Juego: narrativa interactiva donde la UX se centra en la interacción de todos estos aspectos.
 
-* Redes sociales: promoción del proyecto donde se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
-
-* Publicidad: banner (... ) 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Las estrategias que planteamos para evaluar nuestro proyecto son:
 
-* Test de los usuarios: los "testers" nos indicarán su feedback acerca de la narrativa y el grado de interacción, así como la visualización y comprensión de la historia desde el proceso de desarrollo del proyecto.
-* Preguntas en plataformas: el proyecto estará vinculado a hilos de la cuenta del proyecto en redes sociales. Aquí se realizarán preguntas abiertas a los usuarios en relación a la trama, con el objetivo de conocer si se aproximan o no a la idea central. En el caso contrario, podremos modificar los elementos narrativos del proyecto. Esto da lugar a la transmedialidad.
+* Test por los usuarios: los "testers" nos indicarán su *feedback* acerca de la narrativa y el grado de interacción, así como la visualización y comprensión de la historia desde el proceso de desarrollo del proyecto.
+* Preguntas en plataformas: el proyecto estará vinculado a hilos de la cuenta del proyecto en redes sociales. Aquí se realizarán preguntas abiertas a los usuarios en relación a la trama, con el objetivo de conocer si se aproximan o no a la idea central. En el caso contrario, podremos modificar los elementos narrativos del proyecto.
 * Simulaciones de diálogo: al final de nuestro proyecto se podría realizar una simulación de diálogo con Inteligencia Artificial para seguir fomentando la interacción en la narrativa.
 * Encuestas online: una vez que los usuarios lleguen al final del proyecto, realizaremos una encuesta para conocer si les ha gustado o no, y qué se podría mejorar en relación a proyectos futuros.
 
@@ -112,15 +114,11 @@ Alternativa
 * El interés del proyecto es la colaboración con instituciones educativas para fomentar el aprendizaje de este tipo de contenidos, por lo que pretendemos que se involucren los Ministerios nacionales y las comunidades autónomas de los países tanto de España como de Latinoamérica. En este sentido, sí sería un proyecto viable.
 
 
-
-
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
+* Libros: Crawford, C. (2004). *Chris Crawford on Interactive Storytelling*. Berkeley, CA: New Riders. 
+* Productos utilizados: ChatGPT, Deepseek, Krea AI, Character AI, Adobe Photoshop.
+* Propuestas de medios: Juego interactivo
 
 
 ----
@@ -130,7 +128,6 @@ Referencias y recursos:
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* (...) 
 
 
 
