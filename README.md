@@ -6,6 +6,7 @@ Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.c
 Facultad de Comunicación y Documentación <br>
 Univesidad de Granada  
 
+
 ----
 
 **Titulo**: *La verdad oculta*
@@ -45,6 +46,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 ### Etapa 1: Ideación de proyecto 
 
 En primer lugar, las ideas fueron seleccionadas a partir de un "brainstorming" que hicimos el primer día de clase. En un total de 4 post-its, relacionamos las ideas para crear una narrativa interesante y viable centrado en la Experiencia de Usuario (UX). La idea principal de nuestra historia se concentra en un gobierno dictatorial, donde se plantea un dilema moral: luchar por tus ideales políticos o ser dominado por la fuerza de la élite. En algunas ocasiones esto se ha producido en la vida real, otorgando un toque realista al proyecto.
+
 Posteriormente, plasmamos todo esto en la plataforma Milanote para tener una visión conjunta de lo que queríamos hacer. Las ideas definitivas han sido representadas en esta página, GitHub.
 
 **Investigación de campo**
