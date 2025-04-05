@@ -95,7 +95,7 @@ Hemos desarrollado los siguientes productos:
 * Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso Character AI, donde se puede dialogar con el protagonista Miguel a través de la Inteligencia Artificial. Este aspecto es complementario para que el usuario entienda la psicología del protagonista y desee explorar más sobre el proyecto. Para los escenarios se ha utilizado Krea AI de nuevo, resultando ser una herramienta relevante en el proyecto.
 * Redes sociales: una vez que tenemos los recursos anteriores, los hemos integrado en las redes sociales como promoción del proyecto. Aquí se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
 * Publicidad: el banner ha sido realizado con "Krea AI" y modificado con Photoshop. También se integra en las redes sociales.
-  ![img](Banner.png)
+![img](Banner.png)
 * Juego: narrativa interactiva donde la UX se centra en la incorporación e interacción de todos estos aspectos.
 
 
