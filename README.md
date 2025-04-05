@@ -35,6 +35,7 @@ Univesidad de Granada
 * ArcWeave:
 * Protopie:
 
+
 --- 
 
 ### Metodología
@@ -49,6 +50,7 @@ Posteriormente, plasmamos todo esto en la plataforma Milanote para tener una vis
 **Investigación de campo**
 
 Nos hemos inspirado en las siguientes propuestas:
+
 * Videojuego "Shin chan: Mi verano con el profesor" (Nintendo Switch): lo hemos cogido para la representación del pueblo costero en el que habita nuestro protagonista Miguel. Es un reflejo del futuro y, a la vez, recuerdos del pasado.
 * Película "El pianista" (Polanski, 2002): hemos seleccionado esta obra audiovisual para plasmar lo que ocurre cuando un régimen dictatorial se apodera en un país.
 
@@ -89,11 +91,12 @@ Alternativa
 
 Hemos desarrollado los siguientes productos:
 
-* Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial "Krea AI". El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas. Esto es una previsualización del juego que se incluirá en las redes sociales del proyecto.
-* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso "Character AI", donde se puede dialogar con el protagonista Miguel a través de la Inteligencia Artificial. Este aspecto es complementario para que el usuario entienda la psicología del protagonista y desee explorar más sobre el proyecto. Para los escenarios se ha utilizado "Krea AI" de nuevo, resultando ser una herramienta relevante en el proyecto.
+* Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial Krea AI. El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas. Esto es una previsualización del juego que se incluirá en las redes sociales del proyecto.
+* Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso Character AI, donde se puede dialogar con el protagonista Miguel a través de la Inteligencia Artificial. Este aspecto es complementario para que el usuario entienda la psicología del protagonista y desee explorar más sobre el proyecto. Para los escenarios se ha utilizado Krea AI de nuevo, resultando ser una herramienta relevante en el proyecto.
 * Redes sociales: una vez que tenemos los recursos anteriores, los hemos integrado en las redes sociales como promoción del proyecto. Aquí se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
 * Publicidad: el banner ha sido realizado con "Krea AI" y modificado con Photoshop. También se integra en las redes sociales.
-* Juego: narrativa interactiva donde la UX se centra en la interacción de todos estos aspectos.
+  ![img](Banner.png)
+* Juego: narrativa interactiva donde la UX se centra en la incorporación e interacción de todos estos aspectos.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -108,7 +111,7 @@ Las estrategias que planteamos para evaluar nuestro proyecto son:
 
 ### Conclusiones y trabajo futuro
 
-* Gracias a este trabajo, hemos adquirido la capacidad de elaborar narrativas interactivas para crear Experiencias de Usuario lo más inmersivas posibles. El grado de consecución del proyecto ha ido creciendo progresivamente, pues el principio fue aprender los conocimientos básicos y, posteriormente, las herramientas intuitivas que faciliten la creación de esta narrativa.
+* Gracias a este trabajo, hemos adquirido la capacidad de elaborar narrativas interactivas para crear Experiencias de Usuario lo más inmersivas posibles. El grado de consecución del proyecto ha sido realizado por pasos progresivos, es decir, el principio fue aprender los conocimientos básicos (términos y herramientas) y, posteriormente, los lenguajes de programación (CSS, HTML y JavaScript) para la creación de esta narrativa. 
 * Uno de los problemas identificados fue la relación de las ideas para crear la historia. Tomamos Inteligencias Artificial como ChatGPT y Deepseek para que nos ayudaran a vincular las ideas de los pos-its (mencionados anteriormente). Ambas proporcionaban ideas diferentes, por lo que decidimos seleccionar cuestiones de ambas para generar una narrativa lo más coherente y realista posible que incorporara la interacción en el jugador. Por otro lado, también tuvimos problemas con la creación técnica del protagonista Miguel con Inteligencia Artificial. Le dimos muchas vueltas a Krea AI para establecer un diálogo con el personaje que incidiera en la trama de forma directa, consiguiendo finalmente un personaje sobre el que el usuario puede extraer información sobre la historia.
 * Consideramos que merece la pena continuar ya que la Experiencia de Usuario es un mercado relativamente reciente, por lo que creemos que se debe tener en cuenta a la hora de generar historias donde el usuario sea el punto central sobre la interacción en la narrativa.
 * El interés del proyecto es la colaboración con instituciones educativas para fomentar el aprendizaje de este tipo de contenidos, por lo que pretendemos que se involucren los Ministerios nacionales y las comunidades autónomas de los países tanto de España como de Latinoamérica. En este sentido, sí sería un proyecto viable.
