@@ -32,8 +32,9 @@ Univesidad de Granada
 **Medios**: 
 
 * Redes sociales: promoción. @LaVerdadOculta
+* Milanote: https://app.milanote.com/1TSr0T1CBWiX9u/la-verdad-oculta?p=fVCzKgTw2WW
 * GitHub: https://github.com/Luciamusica/Luciamusica.github.io/tree/master
-* Twine: desarrollo narrativa interactiva.
+* Twine: desarrollo narrativa interactiva. https://luciamusica.github.io/LaVerdadOculta
 
 
 --- 
