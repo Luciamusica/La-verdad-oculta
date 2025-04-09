@@ -33,8 +33,7 @@ Univesidad de Granada
 
 * Redes sociales: promoción. @LaVerdadOculta
 * GitHub: https://github.com/Luciamusica/Luciamusica.github.io/tree/master
-* ArcWeave:
-* Protopie:
+* Twine: desarrollo narrativa interactiva
 
 
 --- 
@@ -73,13 +72,13 @@ Este proyecto va dirigido a una audiencia mayor de 16 años, pues la situación 
 La forma en la que hacemos uso de los medios es la siguiente:
 
 * Las redes sociales se utilizan para promocionar el proyecto, invitando a todos aquellos que deseen interactuar en una historia de ficción, pero al mismo tiempo en la propia realidad. Introducimos pistas e información importante para poder avanzar en la historia.
-* Narrativa interactiva en juego: el usuario puede navegar a través del videojuego por las etiquetas, conociendo la trama. Así, la UX se define en nuestro proyecto como la exploración e interacción con los elementos.
+* Narrativa interactiva en juego (Twine): el usuario puede navegar a través del videojuego por sus preguntas al protagonista, conociendo la trama. Así, la UX se define en nuestro proyecto como la exploración e interacción directamente con Miguel, decidiendo si otorga o deniega la libertad condicional.
 
 Ejemplo:
-* Videojuego más ambicioso con recursos más complejos
+* Videojuego más ambicioso con recursos más complejos (equipo técnico profesional)
 
 Alternativa 
-* Documental interactivo / web doc
+* Documental interactivo / web doc para profundizar en Cristina, pues también es un personaje que influye en la narrativa.
 
 
 **Inspiración/moodboard**
@@ -96,11 +95,11 @@ Hemos desarrollado los siguientes productos:
 * Imagen visual: la portada (logotipo del proyecto) ha sido realizada con la herramienta de Inteligencia Artificial Krea AI. El diseño de la interfaz ha sido más complejo, por lo que se han usado otro tipo de herramientas. Esto es una previsualización del juego que se incluirá en las redes sociales del proyecto.
 * Personajes y escenarios: para la creación de los personajes, ha sido fundamental el recurso Character AI, donde se puede dialogar con el protagonista Miguel a través de la Inteligencia Artificial. Este aspecto es complementario para que el usuario entienda la psicología del protagonista y desee explorar más sobre el proyecto. Para los escenarios se ha utilizado Krea AI de nuevo, resultando ser una herramienta relevante en el proyecto.
 * Redes sociales: una vez que tenemos los recursos anteriores, los hemos integrado en las redes sociales como promoción del proyecto. Aquí se publican pistas con el objetivo de que los usuarios empiecen a interactuar. Así, conocemos su feedback desde el principio.
-* Publicidad: el banner ha sido realizado con "Krea AI" y modificado con Photoshop. También se integra en las redes sociales.
+* Publicidad: el banner ha sido realizado con Krea AI y modificado con Photoshop. También se integra en las redes sociales.
   
   ![img](Banner.png)
 
-* Juego: narrativa interactiva donde la UX se centra en la incorporación e interacción de todos estos aspectos.
+* Juego: narrativa interactiva en Twine donde la UX se centra en la incorporación e interacción de todos estos aspectos.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -124,8 +123,8 @@ Las estrategias que planteamos para evaluar nuestro proyecto son:
 Referencias y recursos: 
 
 * Libros: Crawford, C. (2004). *Chris Crawford on Interactive Storytelling*. Berkeley, CA: New Riders. 
-* Productos utilizados: ChatGPT, Deepseek, Krea AI, Character AI, Adobe Photoshop.
-* Propuestas de medios: Juego interactivo
+* Productos utilizados: ChatGPT, Deepseek, Krea AI, Character AI, Adobe Photoshop, Twine.
+* Propuestas de medios: Juego interactivo (Twine)
 
 
 ----
