@@ -33,7 +33,7 @@ Univesidad de Granada
 
 * Redes sociales: promoción. @LaVerdadOculta
 * GitHub: https://github.com/Luciamusica/Luciamusica.github.io/tree/master
-* Twine: desarrollo narrativa interactiva
+* Twine: desarrollo narrativa interactiva.
 
 
 --- 
